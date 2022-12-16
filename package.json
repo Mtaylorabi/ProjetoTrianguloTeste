@@ -1,0 +1,14 @@
+{
+  "name": "projetotrianguloteste",
+  "version": "1.0.0",
+  "description": "Teste da pagina de calculo triangulos",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Marcos Pereira & Marius Taylor",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
